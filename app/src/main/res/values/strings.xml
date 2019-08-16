@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Patron Combinado</string>
+    <string name="title_without_tabs">Contenido sin pestaña</string>
+    <string name="without_tabs">Sin pestañas</string>
+    <string name="with_tabs">Con pestañas</string>
+    <string name="content_with_tabs">Contenido con pestaña</string>
+
+    <string name="uno">Uno</string>
+    <string name="dos">Dos</string>
+    <string name="tres">Tres</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+    <string-array name="tabs">
+        <item>@string/uno</item>
+        <item>@string/dos</item>
+        <item>@string/tres</item>
+    </string-array>
+</resources>
